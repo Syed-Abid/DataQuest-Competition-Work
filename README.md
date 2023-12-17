@@ -15,5 +15,5 @@ This the picture from closing ceremony.
 # During Competition 
 This picture was taken during the competition.
 <div align="center">
-  <img src="" alt="Award Receiving Picture">
+  <img src="https://github.com/Syed-Abid/DataQuest-Competition-Work/blob/main/During%20Competition%20Picture.jpeg" alt="During Competition Picture">
 </div>
