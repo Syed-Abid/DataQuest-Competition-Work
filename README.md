@@ -9,5 +9,11 @@ I participated in the **Data Visualization** domain as a solo competitor and by 
 # Closing Ceremony
 This the picture from closing ceremony.
 <div align="center">
-  <img src="" alt="DataQuest Poster">
+  <img src="https://github.com/Syed-Abid/DataQuest-Competition-Work/blob/main/Award%20Recieving%20Picture.jpeg" alt="Award Receiving Picture">
+</div>
+
+# During Competition 
+This picture was taken during the competition.
+<div align="center">
+  <img src="" alt="Award Receiving Picture">
 </div>
